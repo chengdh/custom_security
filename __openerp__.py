@@ -12,6 +12,7 @@
       "menu_view.xml",
       "security/custom_security.xml",
       "security/ir.model.access.csv",
+      "security/ir.filters.csv",
       ],
     'demo_xml': [],
     'installable': True,

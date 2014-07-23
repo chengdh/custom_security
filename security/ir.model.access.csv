@@ -7,6 +7,7 @@ group_support_manager_access_account_voucher,account.voucher,account_voucher.mod
 group_support_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,custom_purchase.group_support_manager,1,1,1,1
 group_support_manager_access_stock_picking,stock.picking,stock.model_stock_picking,custom_purchase.group_support_manager,1,1,1,1
 group_support_manager_access_stock_move,stock.move,stock.model_stock_move,custom_purchase.group_support_manager,1,1,1,1
+group_support_manager_access_account_move,account.move,account.model_account_move,custom_purchase.group_support_manager,1,1,1,1
 group_houqin_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,custom_purchase.group_houqin_manager,1,1,1,1
 group_houqin_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,custom_purchase.group_houqin_manager,1,1,1,1
 group_houqin_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,custom_purchase.group_houqin_manager,1,1,1,1
@@ -15,6 +16,8 @@ group_houqin_manager_access_account_voucher,account.voucher,account_voucher.mode
 group_houqin_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,custom_purchase.group_houqin_manager,1,1,1,1
 group_houqin_manager_access_stock_picking,stock.picking,stock.model_stock_picking,custom_purchase.group_houqin_manager,1,1,1,1
 group_houqin_manager_access_stock_move,stock.move,stock.model_stock_move,custom_purchase.group_houqin_manager,1,1,1,1
+group_houqin_manager_access_account_move,account.move,account.model_account_move,custom_purchase.group_houqin_manager,1,1,1,1
+group_houqin_manager_access_account_move_line,account.move.line,account.model_account_move_line,custom_purchase.group_houqin_manager,1,1,1,1
 group_it_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,custom_purchase.group_it_manager,1,1,1,1
 group_it_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,custom_purchase.group_it_manager,1,1,1,1
 group_it_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,custom_purchase.group_it_manager,1,1,1,1
@@ -23,6 +26,8 @@ group_it_manager_access_account_voucher,account.voucher,account_voucher.model_ac
 group_it_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,custom_purchase.group_it_manager,1,1,1,1
 group_it_manager_access_stock_picking,stock.picking,stock.model_stock_picking,custom_purchase.group_it_manager,1,1,1,1
 group_it_manager_access_stock_move,stock.move,stock.model_stock_move,custom_purchase.group_it_manager,1,1,1,1
+group_it_manager_access_account_move,account.move,account.model_account_move,custom_purchase.group_it_manager,1,1,1,1
+group_it_manager_access_account_move_line,account.move.line,account.model_account_move_line,custom_purchase.group_it_manager,1,1,1,1
 group_hr_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,base.group_hr_manager,1,1,1,1
 group_hr_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,base.group_hr_manager,1,1,1,1
 group_hr_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,base.group_hr_manager,1,1,1,1
@@ -31,6 +36,8 @@ group_hr_manager_access_account_voucher,account.voucher,account_voucher.model_ac
 group_hr_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,base.group_hr_manager,1,1,1,1
 group_hr_manager_access_stock_picking,stock.picking,stock.model_stock_picking,base.group_hr_manager,1,1,1,1
 group_hr_manager_access_stock_move,stock.move,stock.model_stock_move,base.group_hr_manager,1,1,1,1
+group_hr_manager_access_account_move,account.move,account.model_account_move,base.group_hr_manager,1,1,1,1
+group_hr_manager_access_account_move_line,account.move.line,account.model_account_move_line,base.group_hr_manager,1,1,1,1
 group_dept_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,base.group_dept_manager,1,1,1,1
 group_dept_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,base.group_dept_manager,1,1,1,1
 group_dept_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,base.group_dept_manager,1,1,1,1
@@ -39,6 +46,8 @@ group_dept_manager_access_account_voucher,account.voucher,account_voucher.model_
 group_dept_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,base.group_dept_manager,1,1,1,1
 group_dept_manager_access_stock_picking,stock.picking,stock.model_stock_picking,base.group_dept_manager,1,1,1,1
 group_dept_manager_access_stock_move,stock.move,stock.model_stock_move,base.group_dept_manager,1,1,1,1
+group_dept_manager_access_account_move,account.move,account.model_account_move,base.group_dept_manager,1,1,1,1
+group_dept_manager_access_account_move_line,account.move.line,account.model_account_move_line,base.group_dept_manager,1,1,1,1
 group_shop_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,base.group_shop_manager,1,1,1,1
 group_shop_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,base.group_shop_manager,1,1,1,1
 group_shop_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,base.group_shop_manager,1,1,1,1
@@ -47,6 +56,8 @@ group_shop_manager_access_account_voucher,account.voucher,account_voucher.model_
 group_shop_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,base.group_shop_manager,1,1,1,1
 group_shop_manager_access_stock_picking,stock.picking,stock.model_stock_picking,base.group_shop_manager,1,1,1,1
 group_shop_manager_access_stock_move,stock.move,stock.model_stock_move,base.group_shop_manager,1,1,1,1
+group_shop_manager_access_account_move,account.move,account.model_account_move,base.group_shop_manager,1,1,1,1
+group_shop_manager_access_account_move_line,account.move.line,account.model_account_move_line,base.group_shop_manager,1,1,1,1
 group_account_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,base.group_account_manager,1,1,1,1
 group_account_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,base.group_account_manager,1,1,1,1
 group_account_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,base.group_account_manager,1,1,1,1
@@ -55,6 +66,8 @@ group_account_manager_access_account_voucher,account.voucher,account_voucher.mod
 group_account_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,base.group_account_manager,1,1,1,1
 group_account_manager_access_stock_picking,stock.picking,stock.model_stock_picking,base.group_account_manager,1,1,1,1
 group_account_manager_access_stock_move,stock.move,stock.model_stock_move,base.group_account_manager,1,1,1,1
+group_account_manager_access_account_move,account.move,account.model_account_move,base.group_account_manager,1,1,1,1
+group_account_manager_access_account_move_line,account.move.line,account.model_account_move_line,base.group_account_manager,1,1,1,1
 group_vice_general_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,base.group_vice_general_manager,1,1,1,1
 group_vice_general_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,base.group_vice_general_manager,1,1,1,1
 group_vice_general_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,base.group_vice_general_manager,1,1,1,1
@@ -63,6 +76,8 @@ group_vice_general_manager_access_account_voucher,account.voucher,account_vouche
 group_vice_general_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,base.group_vice_general_manager,1,1,1,1
 group_vice_general_manager_access_stock_picking,stock.picking,stock.model_stock_picking,base.group_vice_general_manager,1,1,1,1
 group_vice_general_manager_access_stock_move,stock.move,stock.model_stock_move,base.group_vice_general_manager,1,1,1,1
+group_vice_general_manager_access_account_move,account.move,account.model_account_move,base.group_vice_general_manager,1,1,1,1
+group_vice_general_manager_access_account_move_line,account.move.line,account.model_account_move_line,base.group_vice_general_manager,1,1,1,1
 group_ceo_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,base.group_ceo,1,1,1,1
 group_ceo_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,base.group_ceo,1,1,1,1
 group_ceo_access_purchase_order,purchase.order,purchase.model_purchase_order,base.group_ceo,1,1,1,1
@@ -71,5 +86,8 @@ group_ceo_access_account_voucher,account.voucher,account_voucher.model_account_v
 group_ceo_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,base.group_ceo,1,1,1,1
 group_ceo_access_stock_picking,stock.picking,stock.model_stock_picking,base.group_ceo,1,1,1,1
 group_ceo_access_stock_move,stock.move,stock.model_stock_move,base.group_ceo,1,1,1,1
+group_ceo_access_account_move,account.move,account.model_account_move,base.group_ceo,1,1,1,1
+group_ceo_access_account_move_line,account.move.line,account.model_account_move_line,base.group_ceo,1,1,1,1
+
 
 

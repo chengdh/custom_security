@@ -2,7 +2,7 @@
 <openerp>
   <data>
     <!--定义审批相关菜单-->
-    <menuitem name="审批" id="custom_hr_expense.menu_audit_list" sequence="0" groups="custom_purchase.group_support_manager,custom_purchase.group_houqin_manager,custom_purchase.group_it_manager,base.group_hr_manager,base.group_dept_manager,base.group_shop_manager,base.group_account_manager,base.group_vice_general_manager,base.group_ceo"/>
+    <menuitem name="审批" id="custom_hr_expense.menu_audit_list" sequence="0" groups="custom_purchase.group_support_manager,stock.group_stock_manager,custom_purchase.group_houqin_manager,custom_purchase.group_it_manager,base.group_hr_manager,base.group_dept_manager,base.group_shop_manager,base.group_account_manager,base.group_vice_general_manager,base.group_ceo"/>
     <menuitem id="custom_hr_expense.menu_bills" name="待审批票据" parent="custom_hr_expense.menu_audit_list" sequence="2"/>
     <menuitem id="custom_hr_expense.menu_expens" name="费用报销单" action="hr_expense.expense_all" parent="custom_hr_expense.menu_bills" sequence="3"/>
     <menuitem id="custom_hr_expense.menu_purchase" name="采购单" action="purchase.purchase_form_action" parent="custom_hr_expense.menu_bills" sequence="4"/>

@@ -88,6 +88,13 @@ group_ceo_access_stock_picking,stock.picking,stock.model_stock_picking,base.grou
 group_ceo_access_stock_move,stock.move,stock.model_stock_move,base.group_ceo,1,1,1,1
 group_ceo_access_account_move,account.move,account.model_account_move,base.group_ceo,1,1,1,1
 group_ceo_access_account_move_line,account.move.line,account.model_account_move_line,base.group_ceo,1,1,1,1
-
-
-
+group_stock_manager_access_hr_expense_expense,hr.expense.expense,hr_expense.model_hr_expense_expense,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_hr_expense_line,hr.expense.line,hr_expense.model_hr_expense_line,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_purchase_order,purchase.order,purchase.model_purchase_order,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_purchase_order_line,purchase.order.line,purchase.model_purchase_order_line,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_account_voucher,account.voucher,account_voucher.model_account_voucher,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_account_voucher_line,account.voucher.line,account_voucher.model_account_voucher_line,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_stock_picking,stock.picking,stock.model_stock_picking,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_stock_move,stock.move,stock.model_stock_move,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_account_move,account.move,account.model_account_move,stock.group_stock_manager,1,1,1,1
+group_stock_manager_access_account_move_line,account.move.line,account.model_account_move_line,stock.group_stock_manager,1,1,1,1

@@ -9,10 +9,10 @@
     'license': 'AGPL-3',
     'depends': [],
     'data': [
-      "menu_view.xml",
       "security/custom_security.xml",
       "security/ir.model.access.csv",
       "security/ir.filters.csv",
+      "menu_view.xml",
       ],
     'demo_xml': [],
     'installable': True,
